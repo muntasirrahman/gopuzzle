@@ -27,12 +27,12 @@ func bracketCounter(strWithBracket string) (bracketCounter int) {
 pick one characther, permutate the remaining char array
 
 ### Output
-- abc
-- acb
-- bac
-- bca
-- cba
-- cab
+    abc
+    acb
+    bac
+    bca
+    cba
+    cab
 
 ```go
 func permutate(word []rune, i int) {
